@@ -37,3 +37,6 @@ Sup
 
 
 New_code
+
+a <- c(seq(1:5))
+
