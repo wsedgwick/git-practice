@@ -49,3 +49,13 @@ a <- c(1, 2, 3, 4, 5)
 # added a vector
 ```
 
+
+```{r}
+
+# Adding another vector, b
+
+b <- c(1, 5, 10)
+
+
+```
+
