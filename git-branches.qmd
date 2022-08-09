@@ -40,3 +40,12 @@ New_code
 
 a <- c(seq(1:5))
 
+
+### I am adding this to branch_2
+
+```{r}
+a <- c(1, 2, 3, 4, 5)
+
+# added a vector
+```
+
